@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+July 22, 2018
 
 ### Student Name:  
-(First and Last Name)
+Aaron Csetter
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Utilize Javascript to create a photo gallery in an HTML document.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://acsetter.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. The browser object model and how it is implemented into an HTML document.
+2. The Javascript and functions used within the Browser Object Model.
+3. An example of how the Browser Object Model can be utilized in a website.
